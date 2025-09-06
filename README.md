@@ -1,2 +1,1 @@
-# MC3DS-MovieMaker
-Creates a movie for the User to Watch in Minecraft3DS. Does NOT allow for Editing or Modification of Frames.
+## PLEASE SEE REPO: https://github.com/Cracko298/MC3DS-Movies
